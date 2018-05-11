@@ -10,3 +10,40 @@ Loky lista recursivamente todos los archivos que contienen los dos directorios, 
 
 Finalmente loky crea cuatro archivos de texto que contienen la informacion de todos los documentos modificados.
 
+# Iniciando
+
+```bash
+$ python loky.py
+```
+
+<p align="center">
+  <img src="http://107.170.113.246/images/loky_1.png" />
+</p>
+
+
+
+<p align="center">
+  <img src="http://107.170.113.246/images/loky_2.png" />
+</p>
+
+
+# Resultados
+
+Al finalizar la ejecucion, loky mostrara un resumen con los resultados encontrados.
+
+<p align="center">
+  <img src="http://107.170.113.246/images/loky_3.png" />
+</p>
+
+Tambien generara cuatro archivos que contienen los archivos: creados, modificados, eliminados y movidos o renombrados
+
+<p align="center">
+  <img src="http://107.170.113.246/images/loky_4.png" />
+</p>
+
+Cada uno de estos archivos tendra tanto el hash como la ruta en donde se encuentra.
+
+
+<p align="center">
+  <img src="http://107.170.113.246/images/loky_5.png" />
+</p>
